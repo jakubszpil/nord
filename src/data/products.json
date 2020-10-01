@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Norweskie Fiordy",
+      "description": "",
+      "image": "fiord",
+      "duration": 4,
+      "tags": [],
+      "includes": ["Nocleg", "Atrakcje turystyczne", "Posiłki"],
+      "discount": null,
+      "slug": "norweskie-fiordy",
+      "price": 1800
+    },
+    {
+      "id": 1,
+      "name": "Wiejskie życie",
+      "description": "Norweska chatka, temperatura poniżej zera, widok na jezioro prosto z okna ... To wszystko w pakiecie Wiejskie życie obejmującym niezapomniany 7-dniowy pobyt na norweskiej wsi.",
+      "image": "norwegia",
+      "duration": 7,
+      "tags": [],
+      "includes": [
+        "Nocleg",
+        "Posiłki",
+        "Atrakcje turystyczne",
+        "Opłata klimatyczna"
+      ],
+      "discount": 2400,
+      "slug": "wiejskie-zycie",
+      "price": 2100
+    },
+    {
+      "id": 2,
+      "name": "Śladami Wikingów",
+      "description": "",
+      "image": "wiking",
+      "duration": 3,
+      "tags": [],
+      "includes": ["Nocleg", "Posiłki", "Atrakcje turystyczne"],
+      "discount": 1600,
+      "slug": "sladami-wikingow",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "name": "Sztokholm i Helsinki",
+      "description": "",
+      "image": "sztokholm",
+      "duration": 2,
+      "tags": [],
+      "includes": ["Nocleg", "Posiłki"],
+      "discount": null,
+      "slug": "sztokholm-i-helsinki",
+      "price": 1200
+    },
+    {
+      "id": 4,
+      "name": "Nordycka Pigułka",
+      "description": "",
+      "image": "fiord__las",
+      "duration": 6,
+      "tags": [],
+      "includes": [
+        "Atrakcje turystyczne",
+        "Nocleg",
+        "Posiłki",
+        "Opłata klimatyczna"
+      ],
+      "discount": 2600,
+      "slug": "nordycka-pigulka",
+      "price": 2300
+    },
+    {
+      "id": 5,
+      "name": "W pogoni za Świętym Mikołajem",
+      "description": "",
+      "image": "laponia",
+      "duration": 3,
+      "tags": [],
+      "includes": ["Nocleg", "Atrakcje turystyczne", "Posiłki"],
+      "discount": 1900,
+      "slug": "w-pogoni",
+      "price": 1800
+    },
+    {
+      "id": 6,
+      "name": "Norweska Para - Oslo i Bergen",
+      "description": "",
+      "image": "oslo",
+      "duration": 2,
+      "tags": [],
+      "includes": ["Nocleg", "Posiłki"],
+      "discount": null,
+      "slug": "norweska-para",
+      "price": 950
+    },
+    {
+      "id": 7,
+      "name": "Duńskie Perły",
+      "description": "",
+      "image": "dania__widok",
+      "duration": 3,
+      "tags": [],
+      "includes": ["Atrakcje turystyczne", "Posiłki", "Nocleg"],
+      "discount": null,
+      "slug": "dunskie-perly",
+      "price": 1100
+    },
+    {
+      "id": 8,
+      "name": "Skandynawska Wenecja - Sztokholm",
+      "description": "",
+      "image": "szwecja__flaga",
+      "duration": 3,
+      "tags": [],
+      "includes": ["Nocleg", "Posiłki"],
+      "discount": 1700,
+      "slug": "skandynawska-wenecja",
+      "price": 1500
+    },
+    {
+      "id": 9,
+      "name": "Gotlandia - Wyspa Wikingów, Piratów i Kościołów",
+      "description": "",
+      "image": "gotlandia",
+      "duration": 4,
+      "tags": [],
+      "includes": ["Atrakcje turystyczne", "Nocleg", "Posiłki"],
+      "discount": null,
+      "slug": "gotlandia",
+      "price": 2000
+    },
+    {
+      "id": 10,
+      "name": "Duński Cud Natury - Wyspa Møn",
+      "description": "",
+      "image": "dania__flaga",
+      "duration": 3,
+      "tags": [],
+      "includes": ["Nocleg", "Posiłki"],
+      "discount": 2200,
+      "slug": "wyspa-møn",
+      "price": 1800
+    },
+    {
+      "id": 11,
+      "name": "Fiordy, Oslo, Droga Trolli",
+      "description": "",
+      "image": "troll",
+      "duration": 4,
+      "tags": [],
+      "includes": ["Atrakcje turystyczne", "Nocleg", "Posiłki"],
+      "discount": null,
+      "slug": "droga-trolli",
+      "price": 2100
+    }
+  ]
+}
